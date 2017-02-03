@@ -1,0 +1,34 @@
+[
+ {
+"ID" : "0",
+"Type" : "text",
+"Text" : "Remember when the internet was small?",
+"VideoURL" : "http://kkitcreations.com/gifs/webonfloppy-040.mp4",
+"LikeCount" : "4",
+"UserLikeAction": "liked",
+    "PosterName" : "Steven",
+"Comments": 
+  [
+    {
+      "Type": "comment",
+      "Text": "Those were the days!",
+      "UserImage": "https://pmctvline2.files.wordpress.com/2016/06/mr-robot-season-2-after-show.jpg?w=620&h=420&crop=1",
+    }
+  ] 
+},
+{
+"ID" : "1",
+"Type" : "text",
+"Text" : "When programmers use computers...",
+"VideoURL" :"http://kkitcreations.com/gifs/pressanykey-003.mp4",
+"LikeCount" : "0"
+},
+{
+"ID" : "2",
+"Type" : "text",
+"Text" : "Coders wear sunglasses, indoors, at night",
+"VideoURL" : "http://kkitcreations.com/gifs/crashoverride-040.mp4",
+"LikeCount" : "12",
+"UserLikeAction": "liked"
+}
+]
